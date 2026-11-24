@@ -1,0 +1,9 @@
+{
+  "id": "hello-giri",
+  "name": "Hello Giri (exemplo)",
+  "version": "1.0.0",
+  "description": "Extensão de exemplo: uma rota de API, uma tabela própria, um hook e uma página no frontend. Use como modelo.",
+  "server": "index.js",
+  "web": "main.js",
+  "enabled": true
+}
